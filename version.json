@@ -1,0 +1,10 @@
+{
+  "version": "1.0.1",
+  "release_date": "2026-10-20",
+  "download_url": "https://github.com/samvanneath/DUB-TV/releases/download/v1.0.1/DUB-TV-Studio.exe",
+  "changelog": [
+    "កំណែដំបូង v1.0.1",
+    "ដំណើរការប្រព័ន្ធ Offline Whisper Base",
+    "បន្ថែមមុខងារ In-App Auto-Update ស្វ័យប្រវត្ត"
+  ]
+}
