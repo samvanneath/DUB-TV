@@ -1,10 +1,13 @@
 {
-  "version": "1.0.1",
-  "release_date": "2026-10-20",
-  "download_url": "https://github.com/samvanneath/DUB-TV/releases/download/v1.0.1/DUB-TV-Studio.exe",
+  "version": "1.0.2",
+  "release_date": "2026-10-31",
+  "download_url": "https://github.com/samvanneath/DUB-TV/releases/download/v1.0.2/DUB-TV-Studio.exe",
   "changelog": [
-    "កំណែដំបូង v1.0.1",
-    "ដំណើរការប្រព័ន្ធ Offline Whisper Base",
-    "បន្ថែមមុខងារ In-App Auto-Update ស្វ័យប្រវត្ត"
+    "កំណែថ្មី v1.0.2",
+    "លុបបំបាត់សំឡេងស្រែករាប់លេខ id/មួយ ដោយសារ JSON leak ១០០%",
+    "កែតម្រូវឈ្មោះតួអង្គ និងពាក្យរាជវង្សចិនឱ្យត្រឹមត្រូវគ្រប់ឈុត",
+    "បន្ថែមមុខងារស្រង់សំឡេង SFX និងកាត់ភ្លេង BGM ល្បឿនលឿន (HPSS)",
+    "ដោះស្រាយបញ្ហាបាត់សំឡេងចុងវីដេអូ និងសំឡេងចិនខ្សោយៗ",
+    "ពង្រឹងប្រព័ន្ធ Auto-Update ស្វ័យប្រវត្តិតាម GitHub Releases"
   ]
 }
