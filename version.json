@@ -1,13 +1,14 @@
 {
-  "version": "1.0.2",
-  "release_date": "2026-10-31",
-  "download_url": "https://github.com/samvanneath/DUB-TV/releases/download/v1.0.2/DUB-TV-Studio.exe",
+  "version": "1.0.3",
+  "release_date": "2026-11-06",
+  "download_url": "https://github.com/samvanneath/DUB-TV/releases/download/v1.0.3/DUB-TV-Studio.exe",
   "changelog": [
-    "កំណែថ្មី v1.0.2",
-    "លុបបំបាត់សំឡេងស្រែករាប់លេខ id/មួយ ដោយសារ JSON leak ១០០%",
-    "កែតម្រូវឈ្មោះតួអង្គ និងពាក្យរាជវង្សចិនឱ្យត្រឹមត្រូវគ្រប់ឈុត",
-    "បន្ថែមមុខងារស្រង់សំឡេង SFX និងកាត់ភ្លេង BGM ល្បឿនលឿន (HPSS)",
-    "ដោះស្រាយបញ្ហាបាត់សំឡេងចុងវីដេអូ និងសំឡេងចិនខ្សោយៗ",
-    "ពង្រឹងប្រព័ន្ធ Auto-Update ស្វ័យប្រវត្តិតាម GitHub Releases"
+    "កំណែថ្មី v1.0.3",
+    "បន្ថែមមុខងារ Multi-Logo Studio: ដាក់ Logo បានច្រើនស្រទាប់ក្នុងពេលតែមួយ",
+    "បន្ថែមបណ្ណាល័យ Logo រក្សាទុក (Saved Logo Library) ចុចប្រើប្រាស់ ១-Click",
+    "ដោះស្រាយបញ្ហា OpenCV អានរូបភាពក្នុង Folder ឈ្មោះខ្មែរ (Unicode Path Fix)",
+    "បង្កើនល្បឿន faster-whisper និង TTS ដំណើរការស្រាល និងរលូនលើ CPU",
+    "កែលម្អការកាត់ភ្លេង Mid-Side SFX និងប្រព័ន្ធ Auto-Update កាន់តែរលូន",
+    "ច្របាច់បញ្ចូល Single-File .exe ដំណើរការលើ Windows គ្រប់ម៉ាស៊ីនដោយមិនបាច់មាន Folder អម"
   ]
 }
